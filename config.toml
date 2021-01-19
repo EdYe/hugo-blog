@@ -1,0 +1,4 @@
+baseURL = "https://EdYe.github.io/"
+languageCode = "zh-tw"
+title = "Edward's Blog"
+theme = "ananke"
